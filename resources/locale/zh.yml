@@ -1,0 +1,11 @@
+fof-oauth:
+  admin:
+    settings:
+      providers:
+        wechat:
+          description: 在{link}创建一个应用程序
+          app_id_label: => fof-oauth.ref.settings.app_id
+          app_secret_label: => fof-oauth.ref.settings.app_secret
+  lib:
+    providers:
+      wechat: Wechat

@@ -1,0 +1,36 @@
+{
+    "name": "marchccc/flarum-ext-auth-wechat",
+    "description": "Login using Wechat, extends FoF/Oauth",
+    "keywords": [
+      "flarum",
+      "oauth",
+      "wechat"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^0.1.0-beta.15",
+        "fof/oauth": ">=0.2.0",
+        "league/oauth2-client": "^2.0"
+    },
+    "autoload": {
+      "psr-4": {
+        "Marchccc\\OauthWechat\\": "src/",
+        "NomisCZ\\OAuth2\\Client\\": "src/Providers/"
+      }
+    },
+    "extra": {
+      "flarum-extension": {
+        "title": "Oauth Wechat",
+        "icon": {
+          "name": "fab fa-weixin",
+          "backgroundColor": "#51c332",
+          "color": "#f5f5f5"
+        }
+      },
+      "flagrow": {
+        "discuss": ""
+      }
+    }
+  }
+  

@@ -1,0 +1,12 @@
+fof-oauth:
+  admin:
+    settings:
+      providers:
+        wechat:
+          description: Create an application at {link}. Don't add http/https to callback domain name string (info - https://www.programmersought.com/article/69151622340/).
+          app_id_label: => fof-oauth.ref.settings.app_id
+          app_secret_label: => fof-oauth.ref.settings.app_secret
+
+  lib:
+    providers:
+      wechat: Wechat
