@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of marchccc/flarum-ext-auth-wechat.** Not for installation: use [Packagist](https://packagist.org/packages/marchccc/flarum-ext-auth-wechat) or the [upstream repository](https://github.com/Marchccc/flarum-ext-auth-wechat).
 
-**0** versions archived · Latest: [`v0.1.0-beta.15`](https://github.com/flarchive/marchccc-flarum-ext-auth-wechat/tree/archive/v0.1.0-beta.15) · License: `MIT` · Flarum: `^0.1.0-beta.15`
+**1** versions archived · Latest: [`v0.1.0-beta.15`](https://github.com/flarchive/marchccc-flarum-ext-auth-wechat/tree/archive/v0.1.0-beta.15) · License: `MIT` · Flarum: `^0.1.0-beta.15`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.15` | 2021-01-28 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/marchccc-flarum-ext-auth-wechat/tree/archive/v0.1.0-beta.15) |
 
 Catalog entry: [packages/marchccc-flarum-ext-auth-wechat.json](https://github.com/flarchive/archive-index/blob/main/packages/marchccc-flarum-ext-auth-wechat.json)
 
